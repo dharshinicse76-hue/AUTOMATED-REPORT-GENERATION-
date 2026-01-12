@@ -22,3 +22,4 @@ One of the major advantages of automated report generation is efficiency. Report
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/f4d2fabf-c7df-409d-a085-6268e9202298)
